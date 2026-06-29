@@ -1,0 +1,26 @@
+{
+  "name": "dev-forge",
+  "displayName": "dev-forge",
+  "description": "Local-first root-cause knowledge base for Claude Code: log a bug once (description / root cause / impact / solution / lessons), then forge weekly reports, STAR resume bullets, stats and a searchable recall index. Never debug the same bug twice. 100% local Markdown.",
+  "version": "0.5.0",
+  "author": {
+    "name": "Frostyume",
+    "email": "frostyyume@gmail.com",
+    "url": "https://github.com/Frostyume"
+  },
+  "homepage": "https://github.com/Frostyume/dev-forge",
+  "repository": "https://github.com/Frostyume/dev-forge",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "skill",
+    "developer-tools",
+    "productivity",
+    "knowledge-base",
+    "root-cause",
+    "bug-tracking",
+    "weekly-report",
+    "resume",
+    "devlog"
+  ]
+}
